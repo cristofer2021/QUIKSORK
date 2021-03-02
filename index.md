@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="img_chania.jpg" alt="Flowers in Chania">
+
 You can use the [editor on GitHub](https://github.com/cristofer2021/QUIKSORK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
