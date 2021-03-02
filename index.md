@@ -4,13 +4,19 @@
 <img src="pic_trulli.jpg" alt="Italian Trulli">
 <img src="img_chania.jpg" alt="Flowers in Chania">
 
-You can use the [editor on GitHub](https://github.com/cristofer2021/QUIKSORK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+You can use the [editor on GitHub](https://github.com/cristofer2021/QUIKSORK/edit/gh-pages/index.md) 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+<body>
+
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
 
 ```markdown
 Syntax highlighted code block
